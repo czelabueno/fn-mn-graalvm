@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.perujug.micronaut
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, graalvm, gradle, java, junit, oracle-function, readme, shade, slf4j-simple, yaml]
